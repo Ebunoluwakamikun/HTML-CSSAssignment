@@ -1,0 +1,202 @@
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+.main {
+    height: 100%;
+}
+
+.First {
+    background-image: url("Resources/First.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    height: 45vh;
+    width: 100%;
+    }
+
+div.Firstkid_2 {
+    width: 40%;
+    margin: auto;
+    height: 100%;
+}
+
+h1 {
+    font-size: 5vh;
+    font-family: Trebuchet MS;
+    font-weight: bolder;
+    color: white;
+    margin-bottom: 4vh;
+    margin-top: 2vh;
+    height: 5vh;
+}
+
+p.Firstkid_2  {
+    font-family: Trebuchet MS;
+    font-size: 2.1vh;
+    line-height: 3.5vh;
+    color: white;
+    margin-bottom: 6vh;
+    height: 8vh;
+}
+
+button.Firstkid_2 {
+    border-radius: 25px;
+    border-color: transparent;
+    background-color: rgb(87, 180, 216);
+    cursor: pointer;
+    width: 10vw;
+    font-family: Trebuchet MS;
+    color: white;
+    font-size: 1.85vh;
+    height: 4.8vh;
+}
+
+button.Firstkid_2:hover {
+    background: grey;
+    color: blue;
+}
+
+button.Firstkid_1 {
+    border-radius: 25px;
+    border-color: transparent;
+    background-color: rgb(172, 5, 83);
+    cursor: pointer;
+    width: 8vw;
+    font-family: Trebuchet MS;
+    color: white;
+    height: 4vh;
+    margin-left: 81vw;
+    margin-top: 0.6vw;
+    font-size: 1.7vh;
+}
+
+button.Firstkid_1:hover {
+    background: grey;
+    color: blue;
+}
+
+span {
+    font-family: Trebuchet MS;
+    color: white;
+    font-size: 2vh;
+    margin-left: 2.6vw;
+}
+  
+button.Secondkid_2 {
+    border-radius: 25px;
+    border-color: transparent;
+    background-color: rgb(33, 164, 216);
+    cursor: pointer;
+    width: 5vw;
+    font-family: Trebuchet MS;
+    color: white;
+    font-size: 1.85vh;
+    height: 4.6vh;
+}
+
+button.Secondkid_2:hover {
+    background: grey;
+    color: blue;
+}
+
+button.c1 {
+    border-radius: 25px;
+    border-color: rgb(33, 164, 216);
+    background-color: white;
+    cursor: pointer;
+    width: 8vw;
+    font-family: Trebuchet MS;
+    color: rgb(29, 158, 209);
+    font-size: 1.85vh;
+    height: 4.6vh;
+    margin-left: 0.6vw;
+}
+
+button.c1:hover {
+    background: grey;
+    color: blue;
+}
+
+h2 {
+    margin-left: 38.7%; 
+    margin-top: 2vh;
+    margin-bottom: 4.6vh;
+    font-size: 4.6vh;
+    font-family: Trebuchet MS;
+    font-weight: bold;
+}
+
+div.button {
+    margin-left: 30%;
+}
+
+div.Secondkid_2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: white;
+    column-gap: 1.5vw;
+    row-gap: 2.6vh;
+    margin-right: 30vw;
+    margin-left: 30vw;
+    margin-top: 6vh;
+
+}
+
+div.g1 {
+    background-image: url(Resources/r1.jpg);
+    background-size: contain;
+    border: transparent;
+    padding: 7.5vh;
+}
+
+div.g2 {
+    background-image: url(Resources/r2.jpg);
+    background-size: contain;
+    border: transparent;
+    padding: 7.5vh;
+}
+
+div.g3 {
+    background-image: url(Resources/r3.jpg);
+    background-size: contain;
+    border: transparent;
+    padding: 7.5vh;
+}
+
+div.g4 {
+    background-image: url(Resources/r4.jpg);
+    background-size: contain;
+    border: transparent;
+    padding: 7.5vh;
+}
+
+div.g5 {
+    background-image: url(Resources/r5.jpg);
+    background-size: contain;
+    border: transparent;
+    padding: 7.5vh;
+}
+
+div.g6 {
+    background-image: url(Resources/r6.jpg);
+    background-size: contain;
+    border: transparent;
+    padding: 7.5vh;
+}
+
+div.g7 {
+    background-image: url(Resources/r7.jpg);
+    background-size: contain;
+    border: transparent;
+    padding: 7.5vh;
+}
+
+div.g8 {
+    background-image: url(Resources/r8.jpg);
+    background-size: contain;
+    border: transparent;
+    padding: 7.5vh;
+}
